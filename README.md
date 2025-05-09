@@ -22,7 +22,7 @@ Junior Data Analyst с техническим бэкграундом
 | [ab-test-dating-app](https://github.com/XOBORT/ab-test-dating-app) | A/B-тест ценовой модели подписки. Проверка гипотез, бутстрэп, визуализация. |
 | [genetic-knapsack](https://github.com/XOBORT/genetic-knapsack) | Эволюционно-генетический алгоритм. Архитектура на модулях, лог в Excel. |
 | [greedy-knapsack](https://github.com/XOBORT/greedy-knapsack) | Жадный алгоритм для приближённого решения задачи о рюкзаке. |
-| [monte-carlo-knapsack](https://github.com/XOBORT/monte-carlo-knapsack) | Метод Монте-Карло для подбора предметов. Приближённое решение. |
+| [knapsack-monte-carlo](https://github.com/XOBORT/knapsack-monte-carlo) | Метод Монте-Карло для подбора предметов. Приближённое решение. |
 | [nearest-neighbor-tsp](https://github.com/XOBORT/nearest-neighbor-tsp) | Жадный алгоритм ближайшего соседа для TSP. Построение маршрута. |
 
 ## Контакты

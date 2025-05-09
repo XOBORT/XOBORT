@@ -1,16 +1,32 @@
-## Hi there 👋
+# Никитин Евгений
+Junior Data Analyst с техническим бэкграундом
 
-<!--
-**XOBORT/XOBORT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Закончил прикладную информатику, работаю инженером-конструктором. Параллельно прошёл курс аналитики данных в Karpov.Courses, где выполнил проекты на Python и SQL, изучил A/B-тестирование, статистику, визуализацию и построение дашбордов. Развиваюсь в аналитике данных, оформляю портфолио и решаю прикладные задачи.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+
+- Python: Pandas, Seaborn, Matplotlib, Pingouin, SciPy, NumPy
+- SQL: PostgreSQL, подзапросы, агрегации, оконные функции
+- A/B-тестирование, бутстрэп, проверка гипотез
+- Статистика: Kruskal–Wallis, z-test, нормальность, бутстрэп
+- Jupyter Notebook
+- BI: Yandex DataLens ([пример дашборда](https://datalens.yandex.cloud/hn7lu0ag9ija3))
+- Git, Markdown
+
+## Проекты
+
+| Название | Описание |
+|----------|----------|
+| [ab-test-dating-app](https://github.com/XOBORT/ab-test-dating-app) | A/B-тест ценовой модели подписки. Проверка гипотез, бутстрэп, визуализация. |
+| [genetic-knapsack](https://github.com/XOBORT/genetic-knapsack) | Эволюционно-генетический алгоритм. Архитектура на модулях, лог в Excel. |
+| [greedy-knapsack](https://github.com/XOBORT/greedy-knapsack) | Жадный алгоритм для приближённого решения задачи о рюкзаке. |
+| [monte-carlo-knapsack](https://github.com/XOBORT/monte-carlo-knapsack) | Метод Монте-Карло для подбора предметов. Приближённое решение. |
+| [nearest-neighbor-tsp](https://github.com/XOBORT/nearest-neighbor-tsp) | Жадный алгоритм ближайшего соседа для TSP. Построение маршрута. |
+
+## Контакты
+
+- Telegram: [https://t.me/Xobortz]  
+- Email: [genaj.2000@yandex.ru]  
+- Профиль: [https://github.com/XOBORT](https://github.com/XOBORT)

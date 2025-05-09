@@ -24,7 +24,7 @@ Junior Data Analyst с техническим бэкграундом
 | [greedy-knapsack](https://github.com/XOBORT/greedy-knapsack) | Жадный алгоритм для приближённого решения задачи о рюкзаке. |
 | [knapsack-monte-carlo](https://github.com/XOBORT/knapsack-monte-carlo) | Метод Монте-Карло для подбора предметов. Приближённое решение. |
 | [nearest-neighbor-tsp](https://github.com/XOBORT/nearest-neighbor-tsp) | Жадный алгоритм ближайшего соседа для TSP. Построение маршрута. |
-| [taylor-method-cauchy](https://github.com/XOBORT/taylor-method-cauchy) | Численное решение задачи Коши методом Тейлора 2-го порядка. Графики и визуализация. |
+| [taylor-method-cauchy-problem](https://github.com/XOBORT/taylor-method-cauchy-problem) | Численное решение задачи Коши методом Тейлора 2-го порядка. Графики и визуализация. |
 
 ## Контакты
 

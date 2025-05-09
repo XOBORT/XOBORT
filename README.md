@@ -1,9 +1,8 @@
-# Никитин Евгений
-Junior Data Analyst с техническим бэкграундом
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=XOBORT&color=blue" alt="Просмотры">
 </p>
+# Никитин Евгений
+Junior Data Analyst с техническим бэкграундом
 
 ## Обо мне
 

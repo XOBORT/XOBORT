@@ -61,3 +61,16 @@ Junior Data Analyst с техническим бэкграундом
 | [knapsack-monte-carlo](https://github.com/XOBORT/knapsack-monte-carlo) | Метод Монте-Карло для подбора предметов. Приближённое решение. |
 | [nearest-neighbor-tsp](https://github.com/XOBORT/nearest-neighbor-tsp) | Жадный алгоритм ближайшего соседа для TSP. Построение маршрута. |
 | [taylor-method-cauchy-problem](https://github.com/XOBORT/taylor-method-cauchy-problem) | Численное решение задачи Коши методом Тейлора 2-го порядка. Графики и визуализация. |
+
+## Проекты
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| [ab-test-dating-app](https://github.com/XOBORT/ab-test-dating-app) | A/B-тест ценовой модели подписки. Проверка гипотез, бутстрэп, визуализация. | Python, Pandas, Seaborn, Matplotlib, Pingouin |
+| [genetic-knapsack](https://github.com/XOBORT/genetic-knapsack) | Эволюционно-генетический алгоритм. Архитектура на модулях, лог в Excel. | Python, random, openpyxl |
+| [greedy-knapsack](https://github.com/XOBORT/greedy-knapsack) | Жадный алгоритм для приближённого решения задачи о рюкзаке. | Python |
+| [knapsack-monte-carlo](https://github.com/XOBORT/knapsack-monte-carlo) | Метод Монте-Карло для подбора предметов. Приближённое решение. | Python, random |
+| [nearest-neighbor-tsp](https://github.com/XOBORT/nearest-neighbor-tsp) | Жадный алгоритм ближайшего соседа для TSP. Построение маршрута. | Python, math, random |
+| [taylor-method-cauchy-problem](https://github.com/XOBORT/taylor-method-cauchy-problem) | Численное решение задачи Коши методом Тейлора 2-го порядка. Графики и визуализация. | C++, Python, Matplotlib |
+
+

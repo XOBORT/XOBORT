@@ -51,17 +51,6 @@ Junior Data Analyst с техническим бэкграундом
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-
-## Стек
-
-- Python: Pandas, Seaborn, Matplotlib, Pingouin, SciPy, NumPy
-- SQL: PostgreSQL, подзапросы, агрегации, оконные функции
-- A/B-тестирование, бутстрэп, проверка гипотез
-- Статистика: Kruskal–Wallis, z-test, нормальность, бутстрэп
-- Jupyter Notebook
-- BI: Yandex DataLens ([пример дашборда](https://datalens.yandex.cloud/hn7lu0ag9ija3))
-- Git, Markdown
-
 ## Проекты
 
 | Название | Описание |

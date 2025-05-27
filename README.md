@@ -44,7 +44,8 @@ Junior Data Analyst с техническим бэкграундом
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-![Yandex DataLens](https://img.shields.io/badge/-DataLens-FFCC00?style=flat&logo=yandex&logoColor=black) [пример дашборда](https://datalens.yandex.cloud/hn7lu0ag9ija3)
+![Yandex DataLens](https://img.shields.io/badge/-DataLens-FFCC00?style=flat&logo=yandex&logoColor=black)
+[![Пример дашборда](https://img.shields.io/badge/-Пример_дашборда-FFCC00?style=flat&logo=yandex&logoColor=black)](https://datalens.yandex.cloud/hn7lu0ag9ija3)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)

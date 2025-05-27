@@ -15,9 +15,20 @@ Junior Data Analyst с техническим бэкграундом
 
 ## Контакты
 
-- Telegram: [https://t.me/Xobortz]  
+- [Telegram](https://t.me/Xobortz)
 - Email: [genaj.2000@yandex.ru]  
-- Профиль: [https://github.com/XOBORT](https://github.com/XOBORT)
+- Профиль: [XOBORT](https://github.com/XOBORT)
+
+## Образование и курсы
+
+**Национальный исследовательский Нижегородский государственный университет имени Н.И. Лобачевского**  
+Бакалавр, 2024  
+Институт информационных технологий, математики и механики (ИИТММ)  
+Прикладная информатика в области обработки данных
+
+**Karpov.Courses** — Аналитик данных  
+[Ссылка на сертификат](https://lab.karpov.courses/certificate/3ec9c957-1d41-4d86-9023-e175b43025e8/)
+
 
 ## Стек
 

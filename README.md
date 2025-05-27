@@ -33,25 +33,23 @@ Junior Data Analyst с техническим бэкграундом
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pingouin](https://img.shields.io/badge/-Pingouin-3B77AA?style=flat&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+![Yandex DataLens](https://img.shields.io/badge/-DataLens-FFCC00?style=flat&logo=yandex&logoColor=black) [пример дашборда](https://datalens.yandex.cloud/hn7lu0ag9ija3)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Yandex DataLens](https://img.shields.io/badge/-DataLens-FFCC00?style=flat&logo=yandex&logoColor=black)
-![Redash](https://img.shields.io/badge/-Redash-EA1E63?style=flat&logo=chartdotjs&logoColor=white)
-
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
 
 ## Стек
 
